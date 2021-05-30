@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>pp.png</file>
+    <file>makro.jpeg</file>
+    <file>logo.png</file>
+    <file>bnkglass.jpg</file>
+  </qresource>
+</RCC>
